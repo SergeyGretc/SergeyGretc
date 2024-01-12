@@ -3,7 +3,7 @@
 </div>
 :man_technologist: Обо мне :
 
-Я начинающий веб-разработчик, программирую с августа 2022г.
+Я junior web developer, имею коммерческий опыт работы в качестве младшего веб-разработчика.
 В своих проектах использую HTML, CSS, JS, React,Redux, немного знаком с Node.js, Express, MongoDb, Loopback3/4. Сейчас активно изучаю TypeScript. 
 ---
 
