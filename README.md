@@ -4,7 +4,7 @@
 :man_technologist: Обо мне :
 
 Я начинающий веб-разработчик, программирую с августа 2022г.
-Изучаю HTML, CSS, JS, React,Redux, немного знаком с Node.js, Express, MongoDb. Сейчас начал изучать TypeScript. В будущем хочу стать профессиональным разработчиком.
+В своих проектах использую HTML, CSS, JS, React,Redux, немного знаком с Node.js, Express, MongoDb, Loopback3/4. Сейчас активно изучаю TypeScript. 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
